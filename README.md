@@ -24,4 +24,6 @@ Techy things used:
    
    %flask
    
-   %
+   %Matplotlib
+   
+   %Pickle
