@@ -8,7 +8,11 @@ It is an easy to implement algorithm, that works well for both regression and cl
 
 This end to end model is build and trained based on the parameters of WISCONSIN dataset.The dataset is available in kaggle.
 
-And front end is build using streamlit.Refer Streamlit "https://streamlit.io/" for designing better UI.
+Flask is used for building an API.
+
+Flask is a widely used micro web framework for creating APIs in Python. 
+
+It is a simple yet powerful web framework which is designed to get started quick and easy, with the ability to scale up to complex applications.
 
 Techy things used:
 
@@ -18,6 +22,6 @@ Techy things used:
    
    %Numpy
    
-   %streamlit
+   %flask
    
    %
